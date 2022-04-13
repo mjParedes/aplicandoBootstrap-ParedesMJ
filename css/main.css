@@ -1,0 +1,31 @@
+/*aplico reset*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Candara;
+}
+
+.header-css{
+    background-color: #F05454; 
+}
+
+.logo-hdr{
+    width: 300px;
+    height: 300px;
+}
+
+main{
+    background-color: #D3D6DB;
+}
+
+section{
+    background-color: #F05454 ;
+}
+
+footer{
+    color: #ffffff;
+}
